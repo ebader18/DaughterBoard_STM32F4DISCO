@@ -50,7 +50,7 @@ U 1 1 54E14461
 P 8550 2700
 F 0 "P25" H 8550 4000 50  0000 C CNN
 F 1 "CONN_02X25" V 8550 2700 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x25" H 8550 1950 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x25" H 8550 1950 60  0001 C CNN
 F 3 "" H 8550 1950 60  0000 C CNN
 	1    8550 2700
 	-1   0    0    -1  
@@ -61,7 +61,7 @@ U 1 1 54E14489
 P 10000 2700
 F 0 "P27" H 10000 4000 50  0000 C CNN
 F 1 "CONN_02X25" V 10000 2700 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x25" H 10000 1950 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x25" H 10000 1950 60  0001 C CNN
 F 3 "" H 10000 1950 60  0000 C CNN
 	1    10000 2700
 	-1   0    0    -1  

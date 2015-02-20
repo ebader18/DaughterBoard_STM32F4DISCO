@@ -50,7 +50,7 @@ U 1 1 54E14461
 P 8550 2700
 F 0 "P25" H 8550 4000 50  0000 C CNN
 F 1 "CONN_02X25" V 8550 2700 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x25" H 8550 1950 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x25" H 8550 1950 60  0001 C CNN
 F 3 "" H 8550 1950 60  0000 C CNN
 	1    8550 2700
 	-1   0    0    -1  
@@ -61,7 +61,7 @@ U 1 1 54E14489
 P 10000 2700
 F 0 "P27" H 10000 4000 50  0000 C CNN
 F 1 "CONN_02X25" V 10000 2700 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x25" H 10000 1950 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x25" H 10000 1950 60  0001 C CNN
 F 3 "" H 10000 1950 60  0000 C CNN
 	1    10000 2700
 	-1   0    0    -1  
@@ -72,7 +72,7 @@ U 1 1 54E144F4
 P 8500 950
 F 0 "P24" H 8500 1100 50  0000 C CNN
 F 1 "CONN_01X02" V 8600 950 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x02" H 8500 950 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x02" H 8500 950 60  0001 C CNN
 F 3 "" H 8500 950 60  0000 C CNN
 	1    8500 950 
 	1    0    0    -1  
@@ -83,7 +83,7 @@ U 1 1 54E14613
 P 9950 950
 F 0 "P26" H 9950 1100 50  0000 C CNN
 F 1 "CONN_01X02" V 10050 950 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x02" H 9950 950 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x02" H 9950 950 60  0001 C CNN
 F 3 "" H 9950 950 60  0000 C CNN
 	1    9950 950 
 	1    0    0    -1  
@@ -510,7 +510,7 @@ U 1 1 54E17893
 P 1300 6050
 F 0 "P5" H 1300 6300 50  0000 C CNN
 F 1 "I2C1" V 1400 6050 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x04" H 1300 6050 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x04" H 1300 6050 60  0001 C CNN
 F 3 "" H 1300 6050 60  0000 C CNN
 	1    1300 6050
 	1    0    0    -1  
@@ -545,7 +545,7 @@ U 1 1 54E1803C
 P 1300 6750
 F 0 "P6" H 1300 7000 50  0000 C CNN
 F 1 "I2C2" V 1400 6750 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x04" H 1300 6750 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x04" H 1300 6750 60  0001 C CNN
 F 3 "" H 1300 6750 60  0000 C CNN
 	1    1300 6750
 	1    0    0    -1  
@@ -580,7 +580,7 @@ U 1 1 54E182A8
 P 1300 7450
 F 0 "P7" H 1300 7700 50  0000 C CNN
 F 1 "I2C3" V 1400 7450 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x04" H 1300 7450 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x04" H 1300 7450 60  0001 C CNN
 F 3 "" H 1300 7450 60  0000 C CNN
 	1    1300 7450
 	1    0    0    -1  
@@ -615,7 +615,7 @@ U 1 1 54E184B3
 P 1150 1850
 F 0 "P1" H 1150 2200 50  0000 C CNN
 F 1 "TYP2A_SPI1" H 1150 1500 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x06" H 1150 650 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x06" H 1150 650 60  0001 C CNN
 F 3 "" H 1150 650 60  0000 C CNN
 	1    1150 1850
 	1    0    0    -1  
@@ -670,7 +670,7 @@ U 1 1 54E18C94
 P 1150 2750
 F 0 "P2" H 1150 3100 50  0000 C CNN
 F 1 "TYP2A_SPI2" H 1150 2400 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x06" H 1150 1550 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x06" H 1150 1550 60  0001 C CNN
 F 3 "" H 1150 1550 60  0000 C CNN
 	1    1150 2750
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 54E18D1C
 P 1150 3650
 F 0 "P3" H 1150 4000 50  0000 C CNN
 F 1 "TYP2A_SPI3" H 1150 3300 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x06" H 1150 2450 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x06" H 1150 2450 60  0001 C CNN
 F 3 "" H 1150 2450 60  0000 C CNN
 	1    1150 3650
 	1    0    0    -1  
@@ -774,7 +774,7 @@ U 1 1 54E18D38
 P 1150 4550
 F 0 "P4" H 1150 4900 50  0000 C CNN
 F 1 "TYP2A_SPI4" H 1150 4200 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x06" H 1150 3350 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x06" H 1150 3350 60  0001 C CNN
 F 3 "" H 1150 3350 60  0000 C CNN
 	1    1150 4550
 	1    0    0    -1  
@@ -897,7 +897,7 @@ U 1 1 54E19A58
 P 2600 1850
 F 0 "P8" H 2600 2200 50  0000 C CNN
 F 1 "TYP2_SPI1" V 2700 1850 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 2600 1850 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 2600 1850 60  0001 C CNN
 F 3 "" H 2600 1850 60  0000 C CNN
 	1    2600 1850
 	1    0    0    -1  
@@ -908,7 +908,7 @@ U 1 1 54E19BBB
 P 2600 2750
 F 0 "P9" H 2600 3100 50  0000 C CNN
 F 1 "TYP2_SPI2" V 2700 2750 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 2600 2750 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 2600 2750 60  0001 C CNN
 F 3 "" H 2600 2750 60  0000 C CNN
 	1    2600 2750
 	1    0    0    -1  
@@ -919,7 +919,7 @@ U 1 1 54E19C2A
 P 2600 3650
 F 0 "P10" H 2600 4000 50  0000 C CNN
 F 1 "TYP2_SPI3" V 2700 3650 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 2600 3650 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 2600 3650 60  0001 C CNN
 F 3 "" H 2600 3650 60  0000 C CNN
 	1    2600 3650
 	1    0    0    -1  
@@ -932,7 +932,7 @@ U 1 1 54E1ABFB
 P 2600 6050
 F 0 "P12" H 2600 6300 50  0000 C CNN
 F 1 "I2C1" V 2700 6050 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x04" H 2600 6050 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x04" H 2600 6050 60  0001 C CNN
 F 3 "" H 2600 6050 60  0000 C CNN
 	1    2600 6050
 	1    0    0    -1  
@@ -967,7 +967,7 @@ U 1 1 54E1AC0E
 P 2600 6750
 F 0 "P13" H 2600 7000 50  0000 C CNN
 F 1 "I2C2" V 2700 6750 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x04" H 2600 6750 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x04" H 2600 6750 60  0001 C CNN
 F 3 "" H 2600 6750 60  0000 C CNN
 	1    2600 6750
 	1    0    0    -1  
@@ -1002,7 +1002,7 @@ U 1 1 54E1AC21
 P 2600 7450
 F 0 "P14" H 2600 7700 50  0000 C CNN
 F 1 "I2C3" V 2700 7450 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x04" H 2600 7450 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x04" H 2600 7450 60  0001 C CNN
 F 3 "" H 2600 7450 60  0000 C CNN
 	1    2600 7450
 	1    0    0    -1  
@@ -1061,7 +1061,7 @@ U 1 1 54E1B7AF
 P 5150 5600
 F 0 "P18" H 5150 5950 50  0000 C CNN
 F 1 "TYP1_GPIO1" V 5250 5600 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 5150 5600 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 5150 5600 60  0001 C CNN
 F 3 "" H 5150 5600 60  0000 C CNN
 	1    5150 5600
 	1    0    0    -1  
@@ -1096,7 +1096,7 @@ U 1 1 54E1B96A
 P 5150 6500
 F 0 "P19" H 5150 6850 50  0000 C CNN
 F 1 "TYP1_GPIO2" V 5250 6500 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 5150 6500 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 5150 6500 60  0001 C CNN
 F 3 "" H 5150 6500 60  0000 C CNN
 	1    5150 6500
 	1    0    0    -1  
@@ -1131,7 +1131,7 @@ U 1 1 54E1BA16
 P 5150 7400
 F 0 "P20" H 5150 7750 50  0000 C CNN
 F 1 "TYP1_GPIO3" V 5250 7400 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 5150 7400 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 5150 7400 60  0001 C CNN
 F 3 "" H 5150 7400 60  0000 C CNN
 	1    5150 7400
 	1    0    0    -1  
@@ -1160,7 +1160,7 @@ U 1 1 54E1CC7C
 P 4250 3600
 F 0 "P17" H 4250 3950 50  0000 C CNN
 F 1 "TYP3_UART6" V 4350 3600 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 4250 3600 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 4250 3600 60  0001 C CNN
 F 3 "" H 4250 3600 60  0000 C CNN
 	1    4250 3600
 	1    0    0    -1  
@@ -1187,7 +1187,7 @@ U 1 1 54E1CD23
 P 4250 2700
 F 0 "P16" H 4250 3050 50  0000 C CNN
 F 1 "TYP3_UART2" V 4350 2700 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 4250 2700 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 4250 2700 60  0001 C CNN
 F 3 "" H 4250 2700 60  0000 C CNN
 	1    4250 2700
 	1    0    0    -1  
@@ -1212,7 +1212,7 @@ U 1 1 54E1CE5F
 P 4250 1800
 F 0 "P15" H 4250 2150 50  0000 C CNN
 F 1 "TYP3_UART1" V 4350 1800 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 4250 1800 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 4250 1800 60  0001 C CNN
 F 3 "" H 4250 1800 60  0000 C CNN
 	1    4250 1800
 	1    0    0    -1  
@@ -1393,7 +1393,7 @@ U 1 1 54E233A4
 P 6150 1750
 F 0 "P21" H 6150 2100 50  0000 C CNN
 F 1 "TIM1" H 6150 1400 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_2x06" H 6150 550 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_2x06" H 6150 550 60  0001 C CNN
 F 3 "" H 6150 550 60  0000 C CNN
 	1    6150 1750
 	1    0    0    -1  
@@ -1478,7 +1478,7 @@ U 1 1 54E23D30
 P 2600 4550
 F 0 "P11" H 2600 4900 50  0000 C CNN
 F 1 "TYP2_SPI4" V 2700 4550 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 2600 4550 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 2600 4550 60  0001 C CNN
 F 3 "" H 2600 4550 60  0000 C CNN
 	1    2600 4550
 	1    0    0    -1  
@@ -1513,7 +1513,7 @@ U 1 1 54E24814
 P 6400 5600
 F 0 "P22" H 6400 5950 50  0000 C CNN
 F 1 "TYP1_GPIO4" V 6500 5600 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 6400 5600 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 6400 5600 60  0001 C CNN
 F 3 "" H 6400 5600 60  0000 C CNN
 	1    6400 5600
 	1    0    0    -1  
@@ -1548,7 +1548,7 @@ U 1 1 54E24827
 P 6400 6500
 F 0 "P23" H 6400 6850 50  0000 C CNN
 F 1 "TYP1_GPIO5" V 6500 6500 50  0000 C CNN
-F 2 "Pin_Headers.pretty:Pin_Header_Straight_1x06" H 6400 6500 60  0001 C CNN
+F 2 "Socket_Strips.pretty:Socket_Strip_Straight_1x06" H 6400 6500 60  0001 C CNN
 F 3 "" H 6400 6500 60  0000 C CNN
 	1    6400 6500
 	1    0    0    -1  
